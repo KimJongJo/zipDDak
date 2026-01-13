@@ -35,26 +35,23 @@ Table
 <img width="1081" height="651" alt="image" src="https://github.com/user-attachments/assets/23e65d6e-6ac4-429b-9ea6-b0c635f7a7b5" />
 
 
-<details>
-<summary>
-개발 환경
-</summary>
 
   
-| Environment | Detail |
+## 🛠 개발 환경 (Environment)
+
+| 구분 | 상세 내용 (Detail) |
 | --- | --- |
-| 환경 | Windows |
-| 언어 | Java, Javascript, HTML5, CSS3, JavaScript, jQuery, MySQL |
-| 프레임워크 / 라이브러리| React, Spring Boot |
-| 보안 | Spring Security, JWT |
-| 데이터베이스 | JPA(QueryDSL) | 
-| 툴 | eclipse, HeidiSQL, Postman, VScode |
-| WAS | Apache Tomcat 9.0 |
-| API | Kakao Map, Login(Kakao, Google, Naver), Toss Payments, 스마트택배 |
-| 협업 | Github, Notion, Draw.io, Figma |
+| **운영체제** | Windows |
+| **언어** | Java, HTML5, CSS3, JavaScript, jQuery |
+| **프레임워크** | Spring Boot, React |
+| **보안** | Spring Security, JWT |
+| **데이터베이스** | MySQL, JPA (QueryDSL) |
+| **개발 툴** | Eclipse, VS Code, HeidiSQL, Postman |
+| **WAS** | Apache Tomcat 9.0 |
+| **API** | Kakao Map, Social Login (Kakao, Google, Naver), Toss Payments, 스마트택배 |
+| **협업** | GitHub, Notion, Draw.io, Figma |
 
-  
-</details>
+
 
 ## 메인화면
 <img width="1033" height="885" alt="zipddakMain" src="https://github.com/user-attachments/assets/fd03457d-30f4-4b6c-97a1-b03464fc8b4c" />
